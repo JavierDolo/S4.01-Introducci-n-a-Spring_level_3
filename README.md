@@ -21,7 +21,7 @@ You are required to configure two separate **Postman environments**, one for eac
   - `port` = `9000` (Maven) or `9001` (Gradle)
 - Use variables in the request URL, for example:
   ```
-  {{server}}:{{port}}/HelloWorld/elmeunom
+  {{server}}:{{port}}/HelloWorld/yournom
   ```
 
 ---
@@ -56,9 +56,9 @@ You are required to configure two separate **Postman environments**, one for eac
 
 Use the following request URL:
 ```
-{{server}}:{{port}}/HelloWorld/elmeunom
+{{server}}:{{port}}/HelloWorld/your nom
 ```
 
-> Replace `elmeunom` with your name.
+> Replace `yournam` with your name.
 
 ---
